@@ -9,3 +9,6 @@
 <a align="center" href="https://github.com/paulo-granthon/TheToDoOffice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulo-granthon&repo=TheToDoOffice&show_owner=true&langs_count=4&theme=github_dark" />
 </a>
+<a align="center" href="https://github.com/paulo-granthon/rusty-tower-of-hanoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulo-granthon&repo=rusty-tower-of-hanoi&show_owner=true&langs_count=4&theme=github_dark" />
+</a>
