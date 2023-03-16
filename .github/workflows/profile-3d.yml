@@ -17,6 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+          git fetch
+          git pull
           git config user.name paulo-granthon
           git config user.email pv.granthon@gmail.com
           git add -A .
