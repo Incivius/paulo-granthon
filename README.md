@@ -1,15 +1,8 @@
 ### I'm a Full-Stack Developer and Database Technology student at FATEC São José dos Campos - Prof. Jessen Vidal.
 
-
-<div align="center">
-
-Trophy: Github Profile Trophy
-
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon" alt="paulo-granthon" /></a>
 </p>
-
-</div>
 
 <!-- <a href="https://github.com/paulo-granthon"> -->
 <div align="center">
