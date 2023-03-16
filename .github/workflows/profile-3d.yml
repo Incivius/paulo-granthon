@@ -19,7 +19,7 @@ jobs:
         run: |
           git fetch
           git pull
-          git config user.name "Paulo Granthon"
+          git config user.name ${{ github.repository_owner }}
           git config user.email pv.granthon@gmail.com
           git add -A .
           git commit -m "profile-3d"
